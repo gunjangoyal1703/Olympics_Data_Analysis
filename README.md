@@ -5,11 +5,9 @@
 ---
  
 ## 📋 Table of Contents
- 
-1. [Project Title & Overview](#-project-title--overview)
-2. [Purpose](#-purpose)
-3. [Datasets & Variables](#-datasets--variables)
-4. [Theory — Code Walkthrough](#-theory--code-walkthrough)
+1. [Purpose](#-purpose)
+2. [Datasets & Variables](#-datasets--variables)
+3. [Theory — Code Walkthrough](#-theory--code-walkthrough)
    - [Section 1 — Imports & Configuration](#section-1--imports--configuration)
    - [Section 2 — Data Loading & Initial Inspection](#section-2--data-loading--initial-inspection)
    - [Section 3 — Data Quality Report](#section-3--data-quality-report)
@@ -19,7 +17,7 @@
    - [Section 7 — Time-Series & Trend Analysis](#section-7--time-series--trend-analysis)
    - [Section 8 — Country Economics × Olympic Performance](#section-8--country-economics--olympic-performance)
    - [Section 9 — Medal Prediction Model](#section-9--medal-prediction-model)
-5. [Conclusions](#-conclusions)
+4. [Conclusions](#-conclusions)
  
 ---
  
